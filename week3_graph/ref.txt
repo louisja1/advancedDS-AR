@@ -1,0 +1,20 @@
+Tarjan:
+强连通分量 https://www.byvoid.com/zhs/blog/scc-tarjan
+割点，桥 http://blog.csdn.net/fuyukai/article/details/51039788
+边点双 http://blog.csdn.net/fuyukai/article/details/51303292
+
+网络流
+dinic算法 https://comzyh.com/blog/archives/568/
+isap（TA只会DINIC）：http://www.renfei.org/blog/isap.html
+最大流最小割 http://www.cnblogs.com/dyzll/p/5887266.html （其实知道数值上 最大流等于最小割就好了）
+网络流建模：有一些常用的套路比如最大权闭合子图，但大部分情况因题而异，看题解学习吧
+
+题目题解：
+A题 HDU1269 裸强连通分量 http://www.cnblogs.com/acmtime/p/5788922.html
+B题 HDU3394 裸点双连通分量 http://blog.csdn.net/u013480600/article/details/31770443
+C题 HDU3549 裸最大流
+D题 GYM100676H 点双连通缩点 + 树DP http://www.cnblogs.com/heimao5027/p/6568084.html
+E题 HDU3879 最大权闭合子图 http://blog.csdn.net/luyuncheng/article/details/7934950
+F题 HDU1569 最小割建模 http://blog.csdn.net/luyuncheng/article/details/7934950
+G题 hackerrank Bonnie and Clyde 点双+讨论 http://www.cnblogs.com/Enceladus/p/7096789.html （这个题解没什么用，可以看看代码）
+H题 POJ1149 最大流建模 http://blog.csdn.net/baidu_35009437/article/details/51959025
